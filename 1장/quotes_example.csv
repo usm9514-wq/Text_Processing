@@ -1,0 +1,3 @@
+﻿text,author,tags,source_url
+첫 번째 예시 명언입니다.,작성자 A,"life, thinking",https://quotes.toscrape.com/api/quotes?page=1
+두 번째 예시 명언입니다.,작성자 B,learning,https://quotes.toscrape.com/api/quotes?page=1
